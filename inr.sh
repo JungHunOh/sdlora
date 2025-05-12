@@ -1,0 +1,1 @@
+python3 main.py --config=./exps/sdlora_inr.json | tee ./logs/inr.log
